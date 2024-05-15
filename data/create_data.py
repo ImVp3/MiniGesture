@@ -20,8 +20,8 @@ offset = 20
 imgSize = 200
 
 # Change only here
-label = "left"  # left / right / up / stop
-farmer = "vp0"  # Replace by your NAME
+label = "up"  # left / right / up / stop
+farmer = "vp4"  # Replace by your NAME
 # End changeable Section
 
 record = False
@@ -50,7 +50,7 @@ while True:
             imgCrop = cv2.resize(imgCrop, (200, 200))
             cv2.imshow("Cropped Image", imgCrop)
             if record:
-                path = os.path.join(label, f"{farmer}-{label}-{counter}.jpg")
+                path = os.path.join(os.path.dirname(__file__), label, f"{farmer}-{label}-{counter}.jpg")
                 print(path)
                 cv2.imwrite(path, imgCrop)
                 counter += 1
