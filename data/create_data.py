@@ -20,15 +20,15 @@ offset = 20
 imgSize = 200
 
 # Change only here
-label = ""  # left / right / up / stop
-farmer = ""  # Replace by your NAME
+label = "left"  # left / right / up / stop
+farmer = "vp0"  # Replace by your NAME
 # End changeable Section
 
 record = False
 counter = 0
 Max = 0
 while True:
-    success, img = cap.read()
+    success, img = cap.read( )
     if not success:
         print("Error: can not get image!!")
         break
@@ -55,7 +55,7 @@ while True:
                 cv2.imwrite(path, imgCrop)
                 counter += 1
     cv2.imshow("Image", img)
-    if cv2.waitKey(1) == ord("e") or counter >= 200:
+    if cv2.waitKey(1) == ord("e") or counter >= 100:
         exit(0)
     if cv2.waitKey(1) == ord("r"):
         record = True
