@@ -21,7 +21,7 @@ imgSize = 200
 
 # Change only here
 label = "up"  # left / right / up / stop
-farmer = "vp4"  # Replace by your NAME
+farmer = "vp5"  # Replace by your NAME
 # End changeable Section
 
 record = False
