@@ -20,8 +20,8 @@ offset = 20
 imgSize = 200
 
 # Change only here
-label = "up"  # left / right / up / stop
-farmer = "vp5"  # Replace by your NAME
+label = "right"  # left / right / up / stop
+farmer = "uk0"  # Replace by your NAME
 # End changeable Section
 
 record = False
@@ -55,7 +55,7 @@ while True:
                 cv2.imwrite(path, imgCrop)
                 counter += 1
     cv2.imshow("Image", img)
-    if cv2.waitKey(1) == ord("e") or counter >= 100:
+    if cv2.waitKey(1) == ord("e") or counter >= 50:
         exit(0)
     if cv2.waitKey(1) == ord("r"):
         record = True

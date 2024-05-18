@@ -2,3 +2,4 @@ opencv-python
 cvzone
 numpy
 streamlit
+mediapipe
