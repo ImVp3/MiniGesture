@@ -20,7 +20,7 @@ offset = 20
 imgSize = 224
 
 # Change only here
-label = "right"  # left / right / up / stop
+label = "up"  # left / right / up / stop
 farmer = "test"  # Replace by your NAME
 # End changeable Section
 
@@ -78,7 +78,7 @@ while True:
                 cv2.imwrite(path, imgCrop)
                 counter += 1
     cv2.imshow("Image", img)
-    if cv2.waitKey(1) == ord("e") or counter >= 50:
+    if cv2.waitKey(1) == ord("e") or counter >= 100:
         exit(0)
     if cv2.waitKey(1) == ord("r"):
         record = True
