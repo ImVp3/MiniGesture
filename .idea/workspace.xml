@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7600460-8f28-4e63-8a7b-268fbfd5777b" name="Changes" comment="Add data glass background">
-      <change afterPath="$PROJECT_DIR$/test/create_test_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/create_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/create_data.py" afterDir="false" />
-    </list>
+    <list default="true" id="d7600460-8f28-4e63-8a7b-268fbfd5777b" name="Changes" comment="Add test data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715998785100</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add test data">
+      <created>1716360764430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716360764430</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add data glass background" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data glass background" />
+    <MESSAGE value="Add test data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add test data" />
   </component>
 </project>
