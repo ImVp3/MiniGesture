@@ -12,7 +12,7 @@
 | --- | ------------------------ | -------- | ------------------------------------------------------ | ------------------------------------------------------- |
 | 1   | Hoàng Quang Khải         | 21520952 | [khaifade (Khai Hoang)](https://github.com/khaifade)   | [21520952@gm.uit.edu.vn](mailto:21520952@gm.uit.edu.vn) |
 | 2   | Hoàng Anh Đức Đăng Quang | 21522509 | [QuangHoang059](https://github.com/QuangHoang059)      | [21522509@gm.uit.edu.vn](mailto:21522509@gm.uit.edu.vn) |
-| 3   | Phan Văn Thiện           | 21522628 | [Thienvp (Phan Văn Thiện)](https://github.com/Thienvp) | [21522628@gm.uit.edu.vn](mailto:21522628@gm.uit.edu.vn) |
+| 3   | Phan Văn Thiện           | 21522628 | [Thienvp (Phan Văn Thiện)](https://github.com/imvp3) | [21522628@gm.uit.edu.vn](mailto:21522628@gm.uit.edu.vn) |
 
 ## GIỚI THIỆU MÔN HỌC
 
